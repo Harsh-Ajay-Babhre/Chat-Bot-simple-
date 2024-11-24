@@ -1,0 +1,12 @@
+This is a list of all the commands that you can use to handle this chatbot - 
+
+open spotify	Launches Spotify
+start telegram	Launches Telegram
+run whatsapp	Launches WhatsApp
+launch instagram	Launches Instagram App
+exit or quit	Ends the chatbot session.
+cls (or unrecognized input)	Responds with "Sorry, I didn't understand your command."
+open youtube	Opens YouTube
+launch instagram	Opens Instagram
+start facebook	Opens Facebook
+run wikipedia	Opens Wikipedia

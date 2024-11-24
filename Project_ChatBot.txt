@@ -1,0 +1,13 @@
+                                                                                                                Project_ChatBot
+Structure - 
+
+chatbot_project/
+│
+├── main.py                 # Entry point for running the chatbot
+├── auth.py                 # Handles user authentication (login/password)
+├── database.py             # Manages SQLite3 database interactions
+├── web_opener.py           # Opens websites based on user commands
+├── app_opener.py           # Opens apps installed on the system
+├── chatbot_logic.py        # Main chatbot logic and responses
+├── config.py               # Configuration settings (e.g., database path)
+└── README.md               # Documentation for the project
